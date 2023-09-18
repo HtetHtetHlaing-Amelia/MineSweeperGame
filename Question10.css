@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+}
+
+.caption{
+    font-size: 30px;
+    color:green;
+    text-align: center;
+    margin: 20px;
+}
+.tb{
+    margin: auto;
+    text-align: center;
+    
+}
+.cells{
+    width:70px;
+    height: 60px;
+    color:white;
+   
+}
